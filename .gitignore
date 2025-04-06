@@ -1,0 +1,32 @@
+# Ignore build directories
+/bin/
+/build/
+/out/
+
+# Ignore IDE-specific files
+/.vscode/
+/*.iml
+/.idea/
+/*.class
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore JAR/WAR files
+*.jar
+*.war
+
+# Ignore Maven/Gradle directories
+/.mvn/
+/target/
+/.gradle/
+
+# Ignore other unnecessary files
+*.swp
+*.bak
+*.swo
